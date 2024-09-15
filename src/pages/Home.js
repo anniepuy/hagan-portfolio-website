@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 
-cont Home = () => {
+const Home = () => {
     return (
         <section className="main-section">
             <div className="left-section">
