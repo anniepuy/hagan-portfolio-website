@@ -26,6 +26,24 @@
     font-size: 1.2rem;
 }
 
+.navbar-right a {
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+}
+
 .navbar-right a:hover {
     color: #ddd;
+}
+
+.navbar-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;;
+}
+
+.navbar_name:hover {
+    color: #007BFF;
+    cursor: pointer;
 }

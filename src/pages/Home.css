@@ -1,0 +1,28 @@
+.main-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: #EAFF4F; /* Azure */
+  }
+  
+  .left-section {
+    width: 50%;
+  }
+  
+  .left-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .left-section p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .right-section img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+  }
+  

@@ -9,7 +9,7 @@ const Home = () => {
                 <p>I'm a Data Analyst and Programmer with a passion for building intelligence solutions with intuiative user interfaces.</p>
             </div>
             <div className='right-section'>
-                <img src="public/PortfolioCartoonImage.png" alt="Cartoon of Ann"/>
+                <img src="/PortfolioCartoonImage.png" alt="Cartoon of Ann"/>
             </div>
         </section>
     );
